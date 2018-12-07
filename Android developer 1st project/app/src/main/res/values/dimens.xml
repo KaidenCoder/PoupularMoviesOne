@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="card_view_text_size">16sp</dimen>
+    <dimen name="movie_detail_text_size">20sp</dimen>
+    <dimen name ="layout_margin_two">2dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_zero">0dp</dimen>
+    <dimen name="marginTop_twenty_two">22dp</dimen>
+    <dimen name="padding_sixteen">16dp</dimen>
+    <dimen name="padding_four">4dp</dimen>
+    <dimen name="padding_fourty_two">42dp</dimen>
+    <dimen name="padding_twenty">20dp</dimen>
+
+    <integer name="grid_columns">2</integer>
+    <string name="poster_size">w342</string>
+</resources>
